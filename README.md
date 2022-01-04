@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/paigekelsey/paigekelsey/main/typedname.gif"]
+![Hi there! I'm Kelsey](https://github.com/paigekelsey/paigekelsey/blob/main/typedname.gif)
 
 - I'm Kelsey, a full stack software engineer
 - 😄 Pronouns: she, her
