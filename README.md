@@ -1,7 +1,7 @@
 ![Hi there! I'm Kelsey](https://github.com/paigekelsey/paigekelsey/blob/main/typedname.gif)
 
 - 😄  Pronouns: she, her
-- 👩‍💻  Full stack software engineer
+- 👩‍💻  [Full stack software engineer](https://kelsey.netlify.app/)
 - 🏥  Former registered nurse, experienced with debugging in both professions
 - 🌈  I’m currently building a mapping app for members of the LGBTQ+ community to pin their queer spaces
 - ❤️  Some of my projects I think you should check out: [CONVERGE](https://www.converge-app.com/) & [PEACH-STUDIO](https://peach-studio.herokuapp.com/)
