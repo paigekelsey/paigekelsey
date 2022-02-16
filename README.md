@@ -2,6 +2,7 @@
 
 - 😄  Pronouns: she, her
 - 👩‍💻  Full stack software engineer
+- 💻  Check out my **portfolio** [HERE](https://www.kelseys.netlify.app/)
 - 🌈  I’m currently building a mapping app for members of the LGBTQ+ community to pin their queer spaces
 - ❤️  Some of my projects I think you should check out: [CONVERGE](https://www.converge-app.com/) & [PEACH-STUDIO](https://peach-studio.herokuapp.com/)
 - 💬  If you would like to reach me you can do so [HERE](mailto:kelseyspaige@gmail.com)
